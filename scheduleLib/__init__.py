@@ -1,3 +1,5 @@
+# available under the MIT license, as stated in https://github.com/Ja-maciek/scheduleLib/blob/main/LICENSE
+
 from datetime import datetime, timezone
 from random import randint
 import os, json, re, glob
